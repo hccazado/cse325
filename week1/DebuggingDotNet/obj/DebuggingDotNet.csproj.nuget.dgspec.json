@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/heitorcazado/workspace/cse325/week1/packages/packages.csproj": {}
+    "/Users/heitorcazado/workspace/cse325/week1/DebuggingDotNet/DebuggingDotNet.csproj": {}
   },
   "projects": {
-    "/Users/heitorcazado/workspace/cse325/week1/packages/packages.csproj": {
+    "/Users/heitorcazado/workspace/cse325/week1/DebuggingDotNet/DebuggingDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/heitorcazado/workspace/cse325/week1/packages/packages.csproj",
-        "projectName": "packages",
-        "projectPath": "/Users/heitorcazado/workspace/cse325/week1/packages/packages.csproj",
+        "projectUniqueName": "/Users/heitorcazado/workspace/cse325/week1/DebuggingDotNet/DebuggingDotNet.csproj",
+        "projectName": "DebuggingDotNet",
+        "projectPath": "/Users/heitorcazado/workspace/cse325/week1/DebuggingDotNet/DebuggingDotNet.csproj",
         "packagesPath": "/Users/heitorcazado/.nuget/packages/",
-        "outputPath": "/Users/heitorcazado/workspace/cse325/week1/packages/obj/",
+        "outputPath": "/Users/heitorcazado/workspace/cse325/week1/DebuggingDotNet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/heitorcazado/.nuget/NuGet/NuGet.Config"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Humanizer": {
-              "target": "Package",
-              "version": "[2.14.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

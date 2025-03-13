@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/heitorcazado/workspace/week1/ContosoPizza/ContosoPizza.csproj": {}
+    "/Users/heitorcazado/workspace/cse325/week1/ContosoPizza/ContosoPizza.csproj": {}
   },
   "projects": {
-    "/Users/heitorcazado/workspace/week1/ContosoPizza/ContosoPizza.csproj": {
+    "/Users/heitorcazado/workspace/cse325/week1/ContosoPizza/ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/heitorcazado/workspace/week1/ContosoPizza/ContosoPizza.csproj",
+        "projectUniqueName": "/Users/heitorcazado/workspace/cse325/week1/ContosoPizza/ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "/Users/heitorcazado/workspace/week1/ContosoPizza/ContosoPizza.csproj",
+        "projectPath": "/Users/heitorcazado/workspace/cse325/week1/ContosoPizza/ContosoPizza.csproj",
         "packagesPath": "/Users/heitorcazado/.nuget/packages/",
-        "outputPath": "/Users/heitorcazado/workspace/week1/ContosoPizza/obj/",
+        "outputPath": "/Users/heitorcazado/workspace/cse325/week1/ContosoPizza/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/heitorcazado/.nuget/NuGet/NuGet.Config"

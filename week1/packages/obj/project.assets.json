@@ -1357,11 +1357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/heitorcazado/workspace/week1/packages/packages.csproj",
+      "projectUniqueName": "/Users/heitorcazado/workspace/cse325/week1/packages/packages.csproj",
       "projectName": "packages",
-      "projectPath": "/Users/heitorcazado/workspace/week1/packages/packages.csproj",
+      "projectPath": "/Users/heitorcazado/workspace/cse325/week1/packages/packages.csproj",
       "packagesPath": "/Users/heitorcazado/.nuget/packages/",
-      "outputPath": "/Users/heitorcazado/workspace/week1/packages/obj/",
+      "outputPath": "/Users/heitorcazado/workspace/cse325/week1/packages/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/heitorcazado/.nuget/NuGet/NuGet.Config"

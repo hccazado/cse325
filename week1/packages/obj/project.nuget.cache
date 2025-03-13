@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ptee3d3A3M8=",
+  "dgSpecHash": "6D7fnIUCAR0=",
   "success": true,
-  "projectFilePath": "/Users/heitorcazado/workspace/week1/packages/packages.csproj",
+  "projectFilePath": "/Users/heitorcazado/workspace/cse325/week1/packages/packages.csproj",
   "expectedPackageFiles": [
     "/Users/heitorcazado/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/heitorcazado/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
